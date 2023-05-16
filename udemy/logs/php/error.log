@@ -9,3 +9,5 @@ Stack trace:
   thrown in /Users/alecdannmayr/Local Sites/wordpress/app/public/test.php on line 13
 [16-May-2023 06:28:35 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in /Users/alecdannmayr/Local Sites/wordpress/app/public/test.php on line 19
 [16-May-2023 06:28:43 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in /Users/alecdannmayr/Local Sites/wordpress/app/public/test.php on line 19
+[16-May-2023 23:26:35 UTC] PHP Parse error:  syntax error, unexpected token "if" in /Users/alecdannmayr/Local Sites/wordpress/udemy/app/public/wp-config.php on line 82
+[16-May-2023 23:26:40 UTC] PHP Parse error:  syntax error, unexpected token "if" in /Users/alecdannmayr/Local Sites/wordpress/udemy/app/public/wp-config.php on line 82
