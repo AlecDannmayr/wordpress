@@ -1,0 +1,5 @@
+[16-May-2023 06:18:54 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /Users/alecdannmayr/Local Sites/wordpress/app/public/test.php:7
+Stack trace:
+#0 {main}
+  thrown in /Users/alecdannmayr/Local Sites/wordpress/app/public/test.php on line 7
+[16-May-2023 06:19:35 UTC] PHP Parse error:  syntax error, unexpected token "echo" in /Users/alecdannmayr/Local Sites/wordpress/app/public/test.php on line 9
