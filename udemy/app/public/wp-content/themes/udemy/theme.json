@@ -81,7 +81,11 @@
           "color": "rgb(236 72 153)",
           "name": "Udemy Danger"
         }
-      ]
+      ],
+      "background": true,
+      "text": true,
+      "link": true,
+      "custom": false
     },
     "blocks": {
       "core/site-title": {
@@ -89,7 +93,9 @@
           "defaultPalette": true,
           "palette": [
             { "slug": "u-primary", "color": "#ef4444", "name": "Udemy Primary" }
-          ]
+          ],
+          "link": true,
+          "custom": false
         }
       }
     }
