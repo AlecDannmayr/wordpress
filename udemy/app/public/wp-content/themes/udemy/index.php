@@ -8,12 +8,12 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Udemy</title>
     <link rel="stylesheet" href="style.css">
-
 </head>
 
-<body>
+<bod <?php body_class('example'); ?>>
+    <?php wp_body_open() ?>
     <p>Udemy</p>
-    <?php wp_footer() ?>
-</body>
+    <?php wp_footer(); ?>
+    </body>
 
 </html>
